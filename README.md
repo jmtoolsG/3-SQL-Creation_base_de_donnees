@@ -1,5 +1,3 @@
-# Base_de_donnee_immobiliere_SQL
-
 Dans un réseau national d’agences immobilières, la direction générale est de plus en plus sensible à l’importance des données et pense que ses agences doivent se démarquer de la concurrence en créant un modèle qui permettra de mieux prévoir le prix de vente des biens immobiliers.
 
 En tant que Data-Analyst, l'objectif est de créer une base de données répertoriant les biens, leurs caractéristiques ainsi que les ventes précèdemment effectuées.
