@@ -6,10 +6,11 @@ En tant que Data-Analyst, l'objectif est de créer une base de données réperto
 
 Le projet comprend les étapes suivantes :
 - Création d'un dictionnaire des données
-- Définition de tables
-- Configuration et nettoyage de tables
-- Création d'un shéma relationnel
+- Création d'un shéma de base de donnéees
 - Création d'un modèle conceptuel de données
+- Création de tables
+- Chargement des données dans une base
+- Configuration et nettoyage de tables
 - Création d'un script de base de données SQL
 - Interrogation de base de données via des requêtes SQL
 
