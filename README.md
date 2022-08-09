@@ -5,6 +5,7 @@ Dans un réseau national d’agences immobilières, la direction générale est 
 En tant que Data-Analyst, l'objectif est de créer une base de données répertoriant les biens, leurs caractéristiques ainsi que les ventes précèdemment effectuées.
 
 #### Compétences visées :
+
 - Création d'un dictionnaire des données
 - Création d'un shéma de base de donnéees
 - Création d'un modèle conceptuel de données
@@ -15,6 +16,7 @@ En tant que Data-Analyst, l'objectif est de créer une base de données réperto
 - Interrogation de base de données via des requêtes SQL
 
 #### Outils utilisés :
+
 - Excel (Power Query)
 - SQL Power Architect
 - Postgre SQL
