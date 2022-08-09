@@ -4,7 +4,7 @@ Dans un réseau national d’agences immobilières, la direction générale est 
 
 En tant que Data-Analyst, l'objectif est de créer une base de données répertoriant les biens, leurs caractéristiques ainsi que les ventes précèdemment effectuées.
 
-Le projet comprend les étapes suivantes :
+Compétences visées :
 - Création d'un dictionnaire des données
 - Création d'un shéma de base de donnéees
 - Création d'un modèle conceptuel de données
