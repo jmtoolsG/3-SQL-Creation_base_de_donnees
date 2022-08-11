@@ -6,14 +6,14 @@ En tant que Data-Analyst, l'objectif est de créer une base de données réperto
 
 #### Compétences visées :
 
-- Création d'un dictionnaire des données
-- Création d'un shéma de base de donnéees
-- Création d'un modèle conceptuel de données
-- Création de tables
-- Chargement des données dans une base
-- Configuration et nettoyage de tables
-- Création d'un script de base de données SQL
-- Interrogation de base de données via des requêtes SQL
+- Créer un dictionnaire des données
+- Créer un d'un shéma de base de donnéees
+- Créer un d'un modèle conceptuel de données
+- CCréer un de tables
+- Charger des données dans une base
+- Configurer et nettoyage de tables
+- Créer un  script de base de données SQL
+- Interroger une base de données via des requêtes SQL
 
 #### Outils utilisés :
 
